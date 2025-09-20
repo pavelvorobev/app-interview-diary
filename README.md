@@ -1,6 +1,10 @@
 ## Приложение для записи, хранения и редактирования информации о собеседованиях
 
-## Доступно по адресу https://app-interview-diary.vercel.app/
+## Доступно по адресу
+
+```sh
+https://app-interview-diary.vercel.app/
+```
 
 ## Project Setup
 
